@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Debbie!
-- 👀 I’m interested in people-first business strategist, passionate about identifying, scaling, and maximizing business opportunities to build meaningful candidate relationships. For years, I've been helping businesses scale employee life cycle operations in onboarding, recruiting support, talent sourcing, and benefits enrollment.
+- 👀 I’m a people-first business strategist, passionate about identifying, scaling, and maximizing business opportunities to build meaningful candidate relationships. For years, I've been helping businesses scale employee life cycle operations in onboarding, recruiting support, talent sourcing, and benefits enrollment.
 - 🌱 I’m currently dabbling in front-end frameworks, which is a combination of HTML, CSS, JavaScript, and other technology to create websites and platforms that are user-friendly and meet business needs.
 - 💞️ I also like to leverage big data to discover insights and identify patterns that have a real human impact, and encourage diversity and inclusion.
 - 📫 [I love connecting with new people, message me or add me on LinkedIn](https://www.linkedin.com/in/debbieleiva/)
